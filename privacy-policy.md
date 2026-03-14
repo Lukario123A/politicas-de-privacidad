@@ -13,7 +13,7 @@ Sin embargo, pueden recopilarse datos técnicos básicos de forma automática, c
 Estos datos se utilizan únicamente para mejorar el funcionamiento de la aplicación.
 
 ## Publicidad
-Esta aplicación **no muestra publicidad** ni utiliza servicios de anuncios de terceros.
+Esta aplicación ** muestra publicidad** y utiliza servicios de anuncios de terceros.
 
 ## Servicios de terceros
 La aplicación puede utilizar servicios proporcionados por Google (como Google Play Services), los cuales pueden recopilar información según sus propias políticas de privacidad.
