@@ -1,32 +1,25 @@
 # Política de Privacidad
 
-Esta aplicación respeta y protege la privacidad de los usuarios.
+Esta Política de Privacidad aplica a la aplicación **Xalculator**, desarrollada por Luis Vergara.
 
-## Recolección de información
+Si tienes preguntas sobre esta política, puedes escribir a: uvanlost@gmail.com
+## 1. Información que recopilamos
 La aplicación **no recopila información personal identificable** como nombre, correo electrónico, dirección o número de teléfono.
 
-Sin embargo, pueden recopilarse datos técnicos básicos de forma automática, como:
-- Tipo de dispositivo
-- Versión del sistema operativo
-- Información de errores (crash logs)
+## 2. Datos técnicos
+Podemos recopilar de forma automática datos técnicos básicos, como información del dispositivo, versión del sistema operativo y registros de errores, únicamente para mejorar el funcionamiento de la aplicación.
 
-Estos datos se utilizan únicamente para mejorar el funcionamiento de la aplicación.
+## 3. Uso de la información
+La información técnica, si existe, se utiliza solo para:
+- mantener la aplicación funcionando correctamente,
+- corregir errores,
+- mejorar la experiencia del usuario.
 
-## Publicidad
-Esta aplicación ** muestra publicidad** y utiliza servicios de anuncios de terceros.
+## 4. Terceros
+Esta aplicación no comparte información personal con terceros.
 
-## Servicios de terceros
-La aplicación puede utilizar servicios proporcionados por Google (como Google Play Services), los cuales pueden recopilar información según sus propias políticas de privacidad.
+## 5. Cambios en esta política
+Podemos actualizar esta política en el futuro. La versión publicada en esta página será la vigente.
 
-Política de privacidad de Google:
-https://policies.google.com/privacy
-
-## Seguridad
-Nos comprometemos a proteger la información del usuario y a utilizar medios comercialmente aceptables para protegerarla.
-
-## Cambios a esta política
-Esta política de privacidad puede actualizarse ocasionalmente.
-
-## Contacto
-Correo electrónico de contacto:
-canchitaling@gmail.com
+## 6. Contacto
+Para cualquier duda sobre esta política, contáctanos en: uvanlost@gmail.com
